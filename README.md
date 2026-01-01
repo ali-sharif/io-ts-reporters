@@ -1,4 +1,8 @@
-# io-ts-reporters
+# io-ts-reporters (fork)
+
+- **This fork removes the Scarf dependency due to security concerns**
+- **Need to switch to Node 16 to install (e.g. `nvm use 16`)**
+- **Note: This project uses Yarn (nvm typically packages yarn in its distributions)**
 
 [Error reporters](https://github.com/gcanti/io-ts#error-reporters) for
 [io-ts](https://github.com/gcanti/io-ts).
